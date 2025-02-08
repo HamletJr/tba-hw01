@@ -1,0 +1,10 @@
+cccaa
+acccaa
+caccaa
+ccacaa
+cccabb
+cccbba
+acaccaa
+accacaa
+acccabb
+acccbba

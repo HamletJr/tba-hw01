@@ -1,0 +1,10 @@
+ababb
+abaca
+abbab
+abbbb
+acaab
+acabb
+acaca
+acacb
+acbaa
+acbab
